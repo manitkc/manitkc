@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi , I'm Manit <br><br>Im studying Software Engineering at University of Auckland and right now I'm searching for an internship for the summer!<br><br>When I'm not grinding Leetcode , I am most likely :)<br>- Go gym 🏋️‍♀️<br>- Play badminton 🏸<br>-On Chess.com ♟️<br>- Building projects 🖥️<br><br><br><br>
+Hi , I'm Manit 
+<br><br>Im studying Software Engineering at University of Auckland and right now I'm searching for an internship for the summer!<br><br>When I'm not grinding Leetcode , I am most likely :)<br>- Go gym 🏋️‍♀️<br>- Play badminton 🏸<br>-On Chess.com ♟️<br>- Building projects 🖥️<br><br><br><br>
 
 
 ## 🌐 Socials:
